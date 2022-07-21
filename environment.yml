@@ -1,7 +1,6 @@
 name: linalg
 channels:
   - conda-forge
-  - defaults
 dependencies:
   - anyio=3.6.1=py310h5588dad_0
   - argon2-cffi=21.3.0=pyhd8ed1ab_0
@@ -159,4 +158,3 @@ dependencies:
   - zipp=3.8.0=pyhd8ed1ab_0
   - zlib=1.2.12=h8ffe710_2
   - zstd=1.5.2=h6255e5f_2
-prefix: C:\Users\dunca\miniconda3\envs\linalg
