@@ -1,0 +1,12 @@
+1. Basics (vectors, matrices, indexing etc.)
+	- Unit vectors
+	- Axis
+2. Matrix multiplication
+	- Dot product, dot product with unit vectors, projection
+	- Geometric intuition of matrix multiplication
+	- Transformation of space
+3. Matrix decomposition
+
+3. Tensors and einsum
+4. Real-world examples 1: transforming tail points, linear models, xyt, chunked averages
+6. Real-world examples 2: PCA, SVD
